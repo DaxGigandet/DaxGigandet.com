@@ -86,3 +86,42 @@ git clone https://github.com/DaxGigandet/DaxGigandet.com.git
 cd DaxGigandet.com
 bundle install
 bundle exec jekyll serve
+
+# Dax Gigandet - Official Website  
+
+Welcome to the official website of **Dax Gigandet**! This is your hub for content, advocacy, and updates. Explore Dax’s TikTok, OnlyFans, music, and activism in one place.  
+
+## 🔥 Content & Licensing  
+All content on this website, including text, images, videos, and music, is **copyrighted by Dax Gigandet**.  
+
+### 📜 **Copyright & Protection**
+- **© 2025 Dax Gigandet. All Rights Reserved.**
+- Unauthorized use, reproduction, or distribution is **strictly prohibited**.
+- DMCA Protected – Report violations [here](https://www.dmca.com).
+  
+### 🚨 **No Content Theft Policy**
+This website **disables right-clicking, prevents copying, and blocks unauthorized use**.  
+
+#### **Terms of Use**  
+✅ **You May:**  
+✔️ Share links to official content.  
+✔️ Embed content with proper credit.  
+
+❌ **You May NOT:**  
+- **Repost, download, or modify** content without permission.  
+- Use content for **commercial purposes** without licensing.  
+
+📩 For business inquiries or licensing, contact:  
+✉️ [business@daxgigandet.com](mailto:business@daxgigandet.com)  
+
+---
+
+### 📢 **Follow Dax Gigandet**  
+- 🎵 **TikTok:** [@daxgigandet](https://tiktok.com/@daxgigandet)  
+- 🖤 **OnlyFans:** [@daxxxgigandet](https://onlyfans.com/daxxxgigandet)  
+- 🎶 **YouTube:** [Dax Gigandet](https://youtube.com/@daxgigandet)  
+- 🔥 **Website:** [DaxGigandet.com](https://daxgigandet.com)  
+
+---
+
+🔹 **DMCA & Protection:** This site is **protected** using **DMCA takedowns and tracking tools**. If content is stolen, legal actions will be pursued.
