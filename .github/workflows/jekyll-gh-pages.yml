@@ -32,9 +32,6 @@ jobs:
           source: ./
           destination: ./_site
 
-      - name: Fix permissions for CNAME
-        run: chmod -R 777 ./_site  # Allows writing to CNAME
-
       - name: Set custom domain (CNAME)
         run: echo "daxgigandet.com" > ./_site/CNAME  # Sets custom domain
 
