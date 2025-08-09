@@ -1,0 +1,1 @@
+Add your press images to public/assets/images/ (og-image.jpg, headshots)

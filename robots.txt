@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://daxgigandet.com/sitemap.xml
+Disallow: /api/
+Disallow: /admin/
